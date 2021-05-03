@@ -26,3 +26,5 @@ with the administrator of the project.
 To intall the prototypes and view them and use them, you just need to use the 'NUnite prototypes' and 'Admin Panel Prototypes'
 to locate the protypes and open them up using Adobe XD to be able to see and interact with them.
 
+The image files represent the university logo I recreated for the apps design. 
+
